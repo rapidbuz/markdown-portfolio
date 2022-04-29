@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Rapid item 1
+* Rapid item 2
+  * Rapid sub item 2
+  * Rapid sub item 2
